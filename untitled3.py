@@ -43,9 +43,9 @@ def workexperience():
       <body style="font-family: Arial; font-size: 18px; text-align: center; background-color: #CCC0C6;">
         <h1>Work Experience</h1>
         <a href="/"> <- Πίσω στην Αρχική</a><br><br>
-        <p><b>Mathematics Tutor (2024-2026):</b><br> Experienced in teaching both high school and university students...</p>
-        <p><b>Head Waiter (2023-2025):</b><br> Led service operations during high-demand seasons...</p>
-        <p><b>Barista/Waiter (2021-2023):</b><br> Worked in high-demand peak tourist seasons...</p>
+        <p><b>Mathematics Tutor (2024-2026):</b><br>Experienced in teaching both high school and univeristy students, breaking down complex mathematical problems into clear, manageable steps. Skilled at adapting explanations to different learning styles and academic levels. Supportive and patient communicator, committed to ensuring full understanding by providing thorough and repeated clarification when needed<br><br><br></p>
+        <p><b>Head Waiter (2023-2025):</b><br>Led service operations during high-demand seasons in a fast paced enviroment.Cordinated team workflow and ensured efficient table management and customer satisfaction. Handled guest requests and resolved issues with professionalism and composure. Developed leadership, decision making and multitasking skills under pressure<br><br><br></p>
+        <p><b>Barista/Waiter (2021-2023):</b><br>Worked in high-demand peak tourist seasons from the outset, consistently delivering high quality customer service in fast-paced and competitive enviroments. Demonstrated adaptability, efficiency and professionalism while managing multiple tasks and maintaining strong attention to detail</p>
       </body>
     </html>
     """
