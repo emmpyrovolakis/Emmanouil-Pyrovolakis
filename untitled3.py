@@ -49,7 +49,7 @@ def pinterest():
       <a href="/"> <- Πίσω στην Αρχική</a><br><br>
       <p>Chess:<br> I play chess since a very young age,not professionally, my elo rating is 1446 </p>
       <a href="https://ratings.fide.com/profile/25844814"target="_blank"> FIDE official site</a><br><br>
-      <p>Sports:<br>I like sports, basketball,football,formula with good company,working out and new adventures are a part of me. out<br><br>
+      <p>Sports:<br>I like sports, basketball,football,formula always with good company, but also working out and new adventures are a part of me<br><br>
       Travelling:<br> Some big cities i have visited: Athens,Thessaloniki,Sofia,Bansko,London<br><br>
       Movies/Series(and many more...):<br> Star Wars, Breaking Bad, Blacklist, From, Sherlock, Dexter, Marvel<br><br>
       Books(of course a very small sample):<br> Death in the Clouds(Agatha Christie),How to kill a mockingbird(Harper Lee),The big adventure of mathematics(Michael Launay)
